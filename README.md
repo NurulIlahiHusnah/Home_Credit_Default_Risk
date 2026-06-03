@@ -16,7 +16,7 @@ Home Credit Indonesia faced a selection bias problem: the existing system system
 
 ## Dataset
 
-Source: [Home Credit Default Risk — Kaggle](https://www.kaggle.com/c/home-credit-default-risk)
+Source: [Home Credit Default Risk — HCI]
 
 | Table | Description |
 |-------|-------------|
